@@ -1,5 +1,7 @@
 # Map Lighting Changer
 
+https://forums.alliedmods.net/showthread.php?t=326478
+
 ### Installation
 1. Download files
 2. Put the MapLightingChanger.smx file into your servers \addons\sourcemod\plugins\
